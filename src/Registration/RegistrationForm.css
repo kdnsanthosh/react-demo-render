@@ -1,0 +1,58 @@
+.reg-container h1 {
+    text-align: center;
+    margin-top: 5%;
+    font-family: Georgia;
+    font-style: bold;
+    font-size: 40px;
+    color: #11b6f7;
+  }
+.input-label
+{
+    display: block ;
+    margin: 8px;
+    margin-left: 8px;
+    color: yellow;
+    font-size: 20px;
+    font-weight: 1000;
+}
+input[type="text"]
+{
+    padding: 12px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    width: 95%;
+    font-size: 16px;
+    border: 3px solid #ff0e0e;
+    border-radius: 10px;
+}
+input[type="email"]
+{
+    padding: 12px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    width: 95%;
+    font-size: 16px;
+    border: 3px solid #ff0e0e;
+    border-radius: 10px;
+}
+input[type="password"]
+{
+    padding: 12px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    width: 95%;
+    font-size: 16px;
+    border: 3px solid #ff0e0e;
+    border-radius: 10px;
+}
+button 
+{
+    padding: 15px 20px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #000000;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease-in;
+}
